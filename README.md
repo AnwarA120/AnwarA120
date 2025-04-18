@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @AnwarA120
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Anwar A  
+**.NET Developer | Backend Engineer | Cloud Enthusiast**
 
-<!---
-AnwarA120/AnwarA120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Areas of Interest**  
+- ASP.NET Core & MVC  
+- C# Application Development  
+- RESTful APIs & Microservices  
+- Entity Framework & SQL Server  
+- Azure App Services & Cloud Integration  
+- Software Architecture & Clean Code Principles
+
+**Currently Exploring**  
+- .NET MAUI for cross-platform apps  
+- Azure DevOps & CI/CD Automation  
+- gRPC, SignalR, and real-time web applications  
+- Containerization with Docker and Kubernetes
+
+**Open to Collaborations In**  
+- Backend systems and API design  
+- Scalable cloud-native .NET applications  
+- Open-source .NET projects and tooling
+
+**Contact**  
+- Email: codeninjaanwar@gmail.com
